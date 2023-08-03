@@ -1,5 +1,5 @@
 # 书卿
-<img src="image/logo1.jpg" alt="logo" style="zoom:50%;" />
+<img src="image/logo1.jpg" alt="logo" style="zoom:30%;" />
 
 <div align='center'>
 <h4>用一片情，写一颗心，记一辈子</h4>
