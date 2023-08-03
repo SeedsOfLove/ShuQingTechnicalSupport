@@ -1,5 +1,5 @@
 # 书卿
-<img src="image/logo1.jpg" alt="logo" style="zoom:30%;" />
+<img src="image/logo1.jpg" alt="logo" style="zoom:20%;" />
 
 <div align='center'>
 <h4>用一片情，写一颗心，记一辈子</h4>
@@ -37,6 +37,7 @@
 
 ## 联系我们
 邮箱：shuqing2023@163.com
+
 微信号： SeedsOfLove_
 
 
