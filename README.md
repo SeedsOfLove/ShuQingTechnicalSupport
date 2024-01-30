@@ -44,11 +44,11 @@
 
 
 ## 官方介绍
-[点击进入官网](http://47.122.3.120:9527/TechnicalSupport/index.html)
+[点击进入官网](http://www.bluewater1412.top/TechnicalSupport/index.html)
 
 
 
 
 ## 隐私条款
-[隐私条款](http://47.122.3.120:9527/MyDocs/ShuQingPrivacyPolicy.html)
+[隐私条款](http://www.bluewater1412.top/MyDocs/ShuQingPrivacyPolicy.html)
 
