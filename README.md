@@ -44,7 +44,7 @@
 
 
 ## 官方介绍
-[点击进入官网](http://www.bluewater1412.top/TechnicalSupport/index.html)
+[点击进入官网](http://www.bluewater1412.top)
 
 
 
